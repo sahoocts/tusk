@@ -4,4 +4,7 @@ kheer
 pasta
 checken fry
 
+Beans
+pizza
+
 Thank you
